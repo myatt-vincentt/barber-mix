@@ -1,10 +1,10 @@
 {
   "title": "Barber Mix",
   "description": "Your face is the barber: raise your brows for a new moustache, open your mouth for a beard, tilt your head for sideburns. Wink for a monocle. Right in your browser.",
-  "image": "/images/og-default.jpg",
+  "image": "/images/barber-mix-thumbnail.jpg",
   "imageAlt": "Barber Mix — a camera experience built with Vincentt",
-  "imageWidth": 1200,
-  "imageHeight": 630,
+  "imageWidth": 941,
+  "imageHeight": 1672,
   "imageType": "image/jpeg",
   "url": "https://barber-mix.vincentt.app"
 }

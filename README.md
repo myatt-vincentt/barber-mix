@@ -15,6 +15,7 @@ screen: a small ghost face beside your head shows a move at the start and when y
   counts again. A wink is one eye shut while the other stays open; the tilt is a head roll of about
   15°.
 - The hint is the SDK's `FaceExpressionHint` (`public/models/face-v1.glb`).
+- Thumbnail: `public/images/barber-mix-thumbnail.jpg` (the share image).
 - Models: `public/models/vincentt-*.glb` (order and fit in `src/barber/styles.ts`). Credits in
   `CREDITS.md`.
 - Dev preview without a camera: the media switcher starts on `dev-media/barber.mp4` if you add one,
